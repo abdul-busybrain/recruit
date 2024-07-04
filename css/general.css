@@ -1,0 +1,29 @@
+/* 
+colors
+1. #132745
+2. #32FFCE
+
+font
+header : Archivo Black
+para: Manrope
+*/
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+}
+
+*,
+*::after,
+*::before {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+p {
+  font-family: "Manrope";
+}
